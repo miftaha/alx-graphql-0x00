@@ -1,0 +1,26 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "10",
+          "name": "Mifath Adem",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "id": "11",
+          "name": "Miftah Adem",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "id": "12",
+          "name": "Miftah Adem",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        }
+      ]
+    }
+  }
+}
